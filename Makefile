@@ -32,6 +32,7 @@ perms:
 
 clean:
 	rm -f $(OBJ)
+tests_run:
 
 fclean: clean
 	rm -f $(NAME)
